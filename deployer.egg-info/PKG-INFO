@@ -1,0 +1,36 @@
+Metadata-Version: 1.1
+Name: deployer
+Version: 0.3.10
+Summary: Library for automating system deployments
+Home-page: https://github.com/jonathanslenders/python-deployer
+Author: Jonathan Slenders, Mobile Vikings, City Live nv
+Author-email: jonathan.slenders@mobilevikings.com
+License: LICENSE.txt
+Description: The deployer is a Python framework for automatic application deployment on
+        Posix systems, usually through SSH. When set up, it can be called as a
+        library, but usually, people use it through an interactive command line.
+        
+        Some key features are:
+        
+        * Interactive execution of remote commands, locally, they will appear in a
+          pseudo terminal (created with openpty), so that even editors like Vim or
+          Emacs works fine when you run them on the remote end.
+        * Reusability of all deployment code is a key point. It's as declarative as
+          possible, but without loosing Python's power to express everything as
+          dynamic as you'd like to. Deployment code is hierarchically structured, with
+          inheritance where possible.
+        * Parallel execution is easy when enabled, while keeping interaction with
+          these remote processes possible through pseudoterminals. Every process gets
+          his own terminal, either a new xterm or gnome-terminal window, a tmux pane, or
+          whatever you'd like to.
+        * Logging of your deployments. New loggers are easily pluggable into the
+          system.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: System :: Installation/Setup
+Classifier: Topic :: System :: Shells

@@ -1,0 +1,7 @@
+paramiko>=1.15.1
+Twisted>=12.2.0
+pexpect==3.0
+Pygments>=1.5
+termcolor>=1.1.0
+docopt==0.6.1
+setproctitle==1.1.8
