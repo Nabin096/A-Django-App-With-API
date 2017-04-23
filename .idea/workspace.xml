@@ -2,61 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2fcaae-df3c-4971-a670-11b1e4912f70" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer.egg-info/PKG-INFO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer.egg-info/SOURCES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer.egg-info/dependency_links.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer.egg-info/requires.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer.egg-info/top_level.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/cli.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/console.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/commands.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/loggers/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/loggers/on_host.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/apt_get.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/connect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/git.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/hg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/contrib/nodes/inspection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/daemonize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/groups.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/local.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/paramiko_connect_patch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/ssh.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host/vagrant.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/host_container.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/inspection/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/inspection/filters.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/inspection/inspector.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/loggers/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/loggers/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/loggers/trace.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/node/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/node/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/node/decorators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/node/role_mapping.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/options.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/pseudo_terminal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/query.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/ipython_shell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/socket_client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/socket_server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/standalone_shell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/run/telnet_server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/scp_shell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/shell.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/std.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/utils/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/utils/network.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deployer/utils/string_utils.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,6 +111,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="husori1" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
